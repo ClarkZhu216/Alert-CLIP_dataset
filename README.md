@@ -41,12 +41,4 @@ This repository currently provides:
 **Raw videos are not redistributed in this repository.**  
 Please obtain the original videos from the official sources of **UCF-Crime** and **MSAD**, and use the provided metadata to align them with VAGTA annotations.
 
-## Repository Structure
 
-```text
-VAGTA/
-├── annotations/
-├── captions/
-├── splits/
-├── metadata/
-└── README.md
